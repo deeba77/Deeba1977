@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My First Web Page</title>
+    </head>
+    <body>
+        <header>
+            <h1>Welcome to Deeba Website!</h1>
+        </header>
+        <nav>
+            <ul>
+                <li><a href="about.html">About Me</a></li>
+                <li><a href="detail.html">Details</a></li>
+            </ul>
+        </nav>
+        <main>
+            <section>
+                <h2>Introduction</h2>
+                <p>This is my first web page. I'm so excited to share it with you.</p>
+            </section>
+        </main>
+        <footer>
+            <p>Copyright 2024 - Deeba Website</p>
+        </footer>
+    </body>
+</html>
